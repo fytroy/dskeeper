@@ -1,0 +1,32 @@
+name: Daily Streak Keeper
+
+on:
+  schedule:
+    # Runs at 09:00 UTC, which is 12:00 PM Nairobi Time (EAT is UTC+3)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allows you to run this manually from the Actions tab for testing
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: allows the action to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Log File
+        run: |
+          # Appends the current date/time to a text file to ensure the git hash changes
+          echo "Streak kept alive on $(date)" >> streak_log.txt
+
+      - name: Commit and Push
+        run: |
+          # Configures the git user as the GitHub Action bot linked to your account
+          git config --global user.name "Streak Bot"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          
+          git add streak_log.txt
+          git commit -m "Auto-commit: Daily streak check-in 🟩"
+          git push
