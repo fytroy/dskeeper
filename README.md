@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-01-13
+## 📅 Quote for 2026-01-14
 
-> "He who becomes a Muslim does so in his own interest." — **Abu Bakr (R.A)**
+> "The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters." — **Muhammad Ali**
 
 ---
 *Last updated automatically by GitHub Actions.*
