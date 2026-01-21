@@ -2,8 +2,8 @@ name: Daily Quote Update
 
 on:
   schedule:
-    # 09:00 UTC = 12:00 PM Nairobi Time
-    - cron: '0 9 * * *'
+    # Runs every hour (UTC-based). Local timezone: Waterloo, ON (Eastern Time)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
