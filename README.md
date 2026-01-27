@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-01-26
+## 📅 Quote for 2026-01-27
 
-> "The Miracle Is Not That We Do This Work, But That We Are Happy To Do It." — **Mother Teresa**
+> "We Enjoy The Process Far More Than The Proceeds." — **Warren Buffett**
 
 ---
 *Last updated automatically by GitHub Actions.*
