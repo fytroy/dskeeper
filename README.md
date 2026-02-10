@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-02-09
+## 📅 Quote for 2026-02-10
 
-> "Most People Spend More Time And Energy Going Around Problems Than In Trying To Solve Them." — **Henry Ford**
+> "Where Sense Is Wanting, Everything Is Wanting." — **Benjamin Franklin**
 
 ---
 *Last updated automatically by GitHub Actions.*
