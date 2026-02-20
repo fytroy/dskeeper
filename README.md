@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-02-19
+## 📅 Quote for 2026-02-20
 
-> "The sun is always shining someplace." — **Muhammad Ali**
+> "We Are All Alike, On The Inside." — **Mark Twain**
 
 ---
 *Last updated automatically by GitHub Actions.*
