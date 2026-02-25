@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-02-24
+## 📅 Quote for 2026-02-25
 
-> "Israel, As The Jewish State, Must Disappear From The Map." — **Ahmed Yassin**
+> "Once your mind stretches to a new level it never goes back to its original dimension." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
