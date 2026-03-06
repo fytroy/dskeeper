@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-05
+## 📅 Quote for 2026-03-06
 
-> "I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call." — **Muhammad Ali**
+> "The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue." — **Leonardo Da Vinci**
 
 ---
 *Last updated automatically by GitHub Actions.*
