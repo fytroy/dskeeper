@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-12
+## 📅 Quote for 2026-03-13
 
-> "If you expect the blessings of God, be kind to His people." — **Abu Bakr (R.A)**
+> "The Miracle Is Not That We Do This Work, But That We Are Happy To Do It." — **Mother Teresa**
 
 ---
 *Last updated automatically by GitHub Actions.*
