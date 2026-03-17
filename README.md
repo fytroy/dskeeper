@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-16
+## 📅 Quote for 2026-03-17
 
-> "Do not overeat; that invites disease." — **Umar ibn Al-Khattāb (R.A)**
+> "The Dog Is A Gentleman; I Hope To Go To His Heaven Not Man'S." — **Mark Twain**
 
 ---
 *Last updated automatically by GitHub Actions.*
