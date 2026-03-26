@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-25
+## 📅 Quote for 2026-03-26
 
-> "If you want to control other people, first control yourself." — **Abu Bakr (R.A)**
+> "He Who Avoids Complaint Invites Happiness." — **Abu Bakr**
 
 ---
 *Last updated automatically by GitHub Actions.*
