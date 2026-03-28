@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-27
+## 📅 Quote for 2026-03-28
 
-> "Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms." — **Aristotle**
+> "Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time." — **Thomas A. Edison**
 
 ---
 *Last updated automatically by GitHub Actions.*
