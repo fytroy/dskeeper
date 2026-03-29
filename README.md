@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-28
+## 📅 Quote for 2026-03-29
 
-> "Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time." — **Thomas A. Edison**
+> "People of the world don't look at themselves, and so they blame one another." — **Rumi**
 
 ---
 *Last updated automatically by GitHub Actions.*
