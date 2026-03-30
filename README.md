@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-03-29
+## 📅 Quote for 2026-03-30
 
-> "People of the world don't look at themselves, and so they blame one another." — **Rumi**
+> "Do for this life as if you live forever, do for the afterlife as if you will die tomorrow." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
