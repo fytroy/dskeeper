@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-04-05
+## 📅 Quote for 2026-04-06
 
-> "True success is reaching our potential without compromising our values." — **Muhammad Ali**
+> "He who avoids complaint invites happiness." — **Abu Bakr (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
