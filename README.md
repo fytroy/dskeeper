@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-04-26
+## 📅 Quote for 2026-04-27
 
-> "Our Prime Purpose In This Life Is To Help Others. And If You Can'T Help Them, At Least Don'T Hurt Them." — **Dalai Lama**
+> "The chess master says nothing, other than moving the silent chess piece." — **Rumi**
 
 ---
 *Last updated automatically by GitHub Actions.*
