@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-04-29
+## 📅 Quote for 2026-04-30
 
-> "It Has Become Appallingly Obvious That Our Technology Has Exceeded Our Humanity." — **Albert Einstein**
+> "Music Expresses That Which Cannot Be Put Into Words." — **Victor Hugo**
 
 ---
 *Last updated automatically by GitHub Actions.*
