@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-05-04
+## 📅 Quote for 2026-05-05
 
-> "The wisest man is he who can account for his actions." — **Umar ibn Al-Khattāb (R.A)**
+> "Muslims should live like brothers." — **Abu Bakr (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
