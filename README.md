@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-05-05
+## 📅 Quote for 2026-05-06
 
-> "Muslims should live like brothers." — **Abu Bakr (R.A)**
+> "Do Not Quench Your Inspiration And Your Imagination; Do Not Become The Slave Of Your Model." — **Vincent Van Gogh**
 
 ---
 *Last updated automatically by GitHub Actions.*
