@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-05-15
+## 📅 Quote for 2026-05-16
 
-> "Our greatest strength lies in the gentleness and tenderness of our heart." — **Rumi**
+> "Where Sense Is Wanting, Everything Is Wanting." — **Benjamin Franklin**
 
 ---
 *Last updated automatically by GitHub Actions.*
