@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-05-23
+## 📅 Quote for 2026-05-24
 
-> "If you look at the world the same way when you're 50 that you did when you were 20, then you wasted 30 years." — **Muhammad Ali**
+> "Never Do Anything Against Conscience Even If The State Demands It." — **Albert Einstein**
 
 ---
 *Last updated automatically by GitHub Actions.*
