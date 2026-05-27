@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-05-25
+## 📅 Quote for 2026-05-27
 
-> "I Never Think Of The Future - It Comes Soon Enough." — **Albert Einstein**
+> "Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence." — **Albert Camus**
 
 ---
 *Last updated automatically by GitHub Actions.*
