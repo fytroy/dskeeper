@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-06-01
+## 📅 Quote for 2026-06-02
 
-> "The wisest man is he who can account for his actions." — **Umar ibn Al-Khattāb (R.A)**
+> "Patience is of two kinds: patience over what pains you, and patience against what you covet." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
