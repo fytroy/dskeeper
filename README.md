@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-06-07
+## 📅 Quote for 2026-06-08
 
-> "You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it." — **Muhammad Ali**
+> "The Way To Get Started Is To Quit Talking And Begin Doing." — **Walt Disney**
 
 ---
 *Last updated automatically by GitHub Actions.*
