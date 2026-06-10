@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-06-09
+## 📅 Quote for 2026-06-10
 
-> "Get used to a rough life, for luxury does not last forever." — **Umar ibn Al-Khattāb (R.A)**
+> "There Has Never Yet Been A Man In Our History Who Led A Life Of Ease Whose Name Is Worth Remembering." — **Theodore Roosevelt**
 
 ---
 *Last updated automatically by GitHub Actions.*
