@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-06-22
+## 📅 Quote for 2026-06-23
 
-> "Almost All Our Desires, When Examined, Contain Something Too Shameful To Reveal." — **Victor Hugo**
+> "There is a voice that doesn't use words. Listen." — **Rumi**
 
 ---
 *Last updated automatically by GitHub Actions.*
