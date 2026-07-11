@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-10
+## 📅 Quote for 2026-07-11
 
-> "There is greatness in the fear of God, contentment in faith of God, and honour in humility." — **Abu Bakr (R.A)**
+> "If you want to shine like the sun, first burn like the sun." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
