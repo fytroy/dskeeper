@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-11
+## 📅 Quote for 2026-07-12
 
-> "If you want to shine like the sun, first burn like the sun." — **Abdul Kalam**
+> "Get up sucker and fight. Get up and fight." — **Muhammad Ali**
 
 ---
 *Last updated automatically by GitHub Actions.*
