@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-21
+## 📅 Quote for 2026-07-22
 
-> "The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad." — **Friedrich Nietzsche**
+> "He who went to the kings to seek favors went away from Allah." — **Umar ibn Al-Khattāb (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
