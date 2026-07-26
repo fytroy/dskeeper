@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-25
+## 📅 Quote for 2026-07-26
 
-> "Faith Is Taking The First Step Even When You Don'T See The Whole Staircase." — **Martin Luther King  Jr.**
+> "Be dignified, honest and truthful." — **Umar ibn Al-Khattāb (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
