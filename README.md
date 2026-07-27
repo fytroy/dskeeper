@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-26
+## 📅 Quote for 2026-07-27
 
-> "Be dignified, honest and truthful." — **Umar ibn Al-Khattāb (R.A)**
+> "A Goal Properly Set Is Halfway Reached." — **Zig Ziglar**
 
 ---
 *Last updated automatically by GitHub Actions.*
