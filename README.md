@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-30
+## 📅 Quote for 2026-07-31
 
-> "I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields." — **Willie Nelson**
+> "Lord, Lord, How Subject We Old Men Are To This Vice Of Lying!" — **William Shakespeare**
 
 ---
 *Last updated automatically by GitHub Actions.*
