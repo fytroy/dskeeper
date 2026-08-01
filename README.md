@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-07-31
+## 📅 Quote for 2026-08-01
 
-> "Lord, Lord, How Subject We Old Men Are To This Vice Of Lying!" — **William Shakespeare**
+> "He That Is Good For Making Excuses Is Seldom Good For Anything Else." — **Benjamin Franklin**
 
 ---
 *Last updated automatically by GitHub Actions.*
