@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-09
+## 📅 Quote for 2026-08-10
 
-> "I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod." — **Winston Churchill**
+> "I'll tell you how I'd like to be remembered: As a black man who won the heavyweight title - Who has humorous and who never looked down on those who looked up to him - A man who stood for freedom, justice and equality - And I wouldn't even mind if folks forgot how pretty I was." — **Muhammad Ali**
 
 ---
 *Last updated automatically by GitHub Actions.*
