@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-10
+## 📅 Quote for 2026-08-11
 
-> "I'll tell you how I'd like to be remembered: As a black man who won the heavyweight title - Who has humorous and who never looked down on those who looked up to him - A man who stood for freedom, justice and equality - And I wouldn't even mind if folks forgot how pretty I was." — **Muhammad Ali**
+> "My Father Always Told Me That All Businessmen Were Sons Of Bitches, But I Never Believed It Till Now." — **John F. Kennedy**
 
 ---
 *Last updated automatically by GitHub Actions.*
