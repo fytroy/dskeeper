@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-16
+## 📅 Quote for 2026-08-17
 
-> "I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'." — **Maya Angelou**
+> "Cursed is the man who dies, but the evil done by him survives." — **Abu Bakr (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
