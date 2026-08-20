@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-19
+## 📅 Quote for 2026-08-20
 
-> "I'm going to show you how great I am!" — **Muhammad Ali**
+> "Familiarity Breeds Contempt - And Children." — **Mark Twain**
 
 ---
 *Last updated automatically by GitHub Actions.*
