@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-22
+## 📅 Quote for 2026-08-23
 
-> "Thinking is the capital, Enterprise is the way, Hard Work is the solution." — **Abdul Kalam**
+> "Avoid Popularity If You Would Have Peace." — **Abraham Lincoln**
 
 ---
 *Last updated automatically by GitHub Actions.*
