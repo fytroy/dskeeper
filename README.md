@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-24
+## 📅 Quote for 2026-08-25
 
-> "If Light Is In Your Heart You Will Find Your Way Home." — **Rumi**
+> "When Red-Haired People Are Above A Certain Social Grade Their Hair Is Auburn." — **Mark Twain**
 
 ---
 *Last updated automatically by GitHub Actions.*
