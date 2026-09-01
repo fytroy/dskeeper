@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-08-31
+## 📅 Quote for 2026-09-01
 
-> "Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful." — **Albert Camus**
+> "He who wins through fraud is not a winner." — **Umar ibn Al-Khattāb (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
