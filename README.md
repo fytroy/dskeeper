@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-04
+## 📅 Quote for 2026-09-05
 
-> "Means We Use Must Be As Pure As The Ends We Seek." — **Martin Luther King, Jr.**
+> "When mother is happy, family is happy. When family is happy, nation is happy." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
