@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-05
+## 📅 Quote for 2026-09-06
 
-> "When mother is happy, family is happy. When family is happy, nation is happy." — **Abdul Kalam**
+> "Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — **Ellen DeGeneres**
 
 ---
 *Last updated automatically by GitHub Actions.*
