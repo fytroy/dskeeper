@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-06
+## 📅 Quote for 2026-09-07
 
-> "Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — **Ellen DeGeneres**
+> "The Hardest Thing To Understand In The World Is The Income Tax." — **Albert Einstein**
 
 ---
 *Last updated automatically by GitHub Actions.*
