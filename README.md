@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-09
+## 📅 Quote for 2026-09-10
 
-> "If I Were Not A Physicist, I Would Probably Be A Musician. I Often Think In Music. I Live My Daydreams In Music. I See My Life In Terms Of Music." — **Albert Einstein**
+> "What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
