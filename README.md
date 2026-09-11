@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-10
+## 📅 Quote for 2026-09-11
 
-> "What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions." — **Abdul Kalam**
+> "The art of knowing is knowing what to ignore." — **Rumi**
 
 ---
 *Last updated automatically by GitHub Actions.*
