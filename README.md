@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-11
+## 📅 Quote for 2026-09-12
 
-> "The art of knowing is knowing what to ignore." — **Rumi**
+> "Laziness May Appear Attractive, But Work Gives Satisfaction." — **Anne Frank**
 
 ---
 *Last updated automatically by GitHub Actions.*
