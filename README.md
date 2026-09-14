@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-13
+## 📅 Quote for 2026-09-14
 
-> "I Want To Know All Gods Thoughts; All The Rest Are Just Details." — **Albert Einstein**
+> "A man's worth depends upon the nobility of his aspirations." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
