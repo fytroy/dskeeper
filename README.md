@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-14
+## 📅 Quote for 2026-09-15
 
-> "A man's worth depends upon the nobility of his aspirations." — **Ali ibn Abi Talib (R.A)**
+> "Adversity always presents opportunities for introspection." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
