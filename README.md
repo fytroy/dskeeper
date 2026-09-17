@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-16
+## 📅 Quote for 2026-09-17
 
-> "An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last." — **Winston Churchill**
+> "There is no nobility with bad manners." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
