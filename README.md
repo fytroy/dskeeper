@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-23
+## 📅 Quote for 2026-09-24
 
-> "Often It Does Seem A Pity That Noah And His Party Did Not Miss The Boat." — **Mark Twain**
+> "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard." — **Abdul Kalam**
 
 ---
 *Last updated automatically by GitHub Actions.*
