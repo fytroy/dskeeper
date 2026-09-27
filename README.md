@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-09-26
+## 📅 Quote for 2026-09-27
 
-> "For those who practice tyranny and deprive others of their rights, I will be harsh and stern, but for those who follow the law, I will be most soft and tender." — **Umar ibn Al-Khattāb (R.A)**
+> "A Good Head And A Good Heart Are Always A Formidable Combination." — **Nelson Mandela**
 
 ---
 *Last updated automatically by GitHub Actions.*
