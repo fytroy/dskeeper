@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-10-03
+## 📅 Quote for 2026-10-04
 
-> "There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." — **Rumi**
+> "The days of life pass away like clouds, so do good while you are alive." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
