@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-10-10
+## 📅 Quote for 2026-10-11
 
-> "To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do." — **Victor Hugo**
+> "The Whole Of Science Is Nothing More Than A Refinement Of Everyday Thinking." — **Albert Einstein**
 
 ---
 *Last updated automatically by GitHub Actions.*
