@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-10-15
+## 📅 Quote for 2026-10-16
 
-> "One Believes Others Will Do What He Will Do To Himself." — **Victor Hugo**
+> "Beautiful people are not always good, but good people are always beautiful." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
