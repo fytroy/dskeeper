@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-10-25
+## 📅 Quote for 2026-10-26
 
-> "What is politics? Political system is equal to development politics plus political politics." — **Abdul Kalam**
+> "People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives." — **Theodore Roosevelt**
 
 ---
 *Last updated automatically by GitHub Actions.*
