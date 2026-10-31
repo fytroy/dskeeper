@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-10-30
+## 📅 Quote for 2026-10-31
 
-> "A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On." — **Winston Churchill**
+> "I Wish They Would Only Take Me As I Am." — **Vincent Van Gogh**
 
 ---
 *Last updated automatically by GitHub Actions.*
