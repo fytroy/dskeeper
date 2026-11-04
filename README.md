@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-03
+## 📅 Quote for 2026-11-04
 
-> "I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul." — **Rumi**
+> "Of all the follies the greatest is to love the world." — **Ali ibn Abi Talib (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
