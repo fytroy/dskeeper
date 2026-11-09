@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-08
+## 📅 Quote for 2026-11-09
 
-> "Poverty is the worst form of death." — **Ali ibn Abi Talib (R.A)**
+> "Things Won Are Done, Joy'S Soul Lies In The Doing." — **William Shakespeare**
 
 ---
 *Last updated automatically by GitHub Actions.*
