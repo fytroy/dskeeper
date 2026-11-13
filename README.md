@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-12
+## 📅 Quote for 2026-11-13
 
-> "As long as you are pure of heart, you speak the truth." — **Umar ibn Al-Khattāb (R.A)**
+> "One Believes Others Will Do What He Will Do To Himself." — **Victor Hugo**
 
 ---
 *Last updated automatically by GitHub Actions.*
