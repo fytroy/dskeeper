@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-13
+## 📅 Quote for 2026-11-14
 
-> "One Believes Others Will Do What He Will Do To Himself." — **Victor Hugo**
+> "Politics Is For The Present, But An Equation Is For Eternity." — **Albert Einstein**
 
 ---
 *Last updated automatically by GitHub Actions.*
