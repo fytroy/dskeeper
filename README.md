@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-16
+## 📅 Quote for 2026-11-17
 
-> "When One Has Not Had A Good Father, One Must Create One." — **Friedrich Nietzsche**
+> "To Shipbrokers, Coal Was Black Gold." — **Roald Dahl**
 
 ---
 *Last updated automatically by GitHub Actions.*
