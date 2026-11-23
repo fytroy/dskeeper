@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-22
+## 📅 Quote for 2026-11-23
 
-> "Float like a butterfly, sting like a bee." — **Muhammad Ali**
+> "The true believer is rewarded in every thing, even in affliction." — **Abu Bakr (R.A)**
 
 ---
 *Last updated automatically by GitHub Actions.*
