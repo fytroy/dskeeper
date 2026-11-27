@@ -3,9 +3,9 @@
 
 This repository automatically updates itself every day at 12:00 PM Nairobi Time to keep my GitHub contribution streak alive.
 
-## 📅 Quote for 2026-11-26
+## 📅 Quote for 2026-11-27
 
-> "Praise Allah, for by praise His blessings multiply." — **Umar ibn Al-Khattāb (R.A)**
+> "If you look at the world the same way when you're 50 that you did when you were 20, then you wasted 30 years." — **Muhammad Ali**
 
 ---
 *Last updated automatically by GitHub Actions.*
